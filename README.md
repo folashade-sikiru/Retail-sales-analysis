@@ -33,7 +33,7 @@ This project analyzes retail sales data to uncover trends, customer behavior, an
 
  📊 Dashboard
 
-(Add your Power BI dashboard screenshot here)
+https://github.com/folashade-sikiru/Retail-sales-analysis/blob/main/dashboard.png
 
 ---
 
