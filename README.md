@@ -1,52 +1,42 @@
- 🛒 Retail Sales Analysis
+# 📊 Retail Sales Dashboard
 
- 📊 Project Overview
+Interactive Power BI dashboard designed to analyze retail sales performance, revenue trends, customer purchasing behavior, and key business metrics for data-driven decision-making.
 
-This project analyzes retail sales data to uncover trends, customer behavior, and business insights. The goal is to help businesses make data-driven decisions.
+## Dashboard Preview
 
----
+![Retail Sales Dashboard](./Retail%20Sales%20Dashboard.png)
 
- 🎯 Objectives
+## Project Overview
 
-* Analyze sales performance over time
-* Identify top-performing products
-* Understand customer purchasing patterns
-* Generate actionable business insights
+This dashboard provides a comprehensive view of retail sales performance by tracking key business metrics, identifying sales trends, and highlighting top-performing products and regions. It enables business users to make informed decisions through interactive visualizations.
 
----
+## Key Metrics
 
- 🛠️ Tools Used
+- Total Sales
+- Total Profit
+- Total Orders
+- Average Order Value
+- Sales Growth
 
-* Microsoft Excel (Data Cleaning & Analysis)
-* SQL (Data Querying)
-* Power BI (Data Visualization & Dashboard)
+## Dashboard Features
 
----
+- Sales overview
+- Revenue trend analysis
+- Product performance
+- Regional sales analysis
+- Customer purchasing insights
+- Interactive slicers and filters
+- KPI cards for business monitoring
 
- 📈 Key Insights
+## Tools Used
 
-* Identified peak sales periods and seasonal trends
-* Highlighted best-selling products
-* Discovered customer buying patterns
+- Power BI
+- Power Query
+- DAX
+- Microsoft Excel
 
----
+## Files Included
 
- 📊 Dashboard
-
-https://github.com/folashade-sikiru/Retail-sales-analysis/blob/main/dashboard.png
-
----
-
- 📁 Files Included
-
-* Raw Dataset
-* Cleaned Dataset
-* Excel Analysis File
-* SQL Queries
-* Power BI Dashboard
-
----
-
- 🚀 Conclusion
-
-This project demonstrates how data analysis can provide valuable insights to improve business performance and support decision-making.
+- Retail Sales Dashboard.pbix
+- Retail Sales Dashboard.png
+- Retail_Sales_Performance.mp4
